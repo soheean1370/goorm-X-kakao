@@ -1,0 +1,11 @@
+age,workclass,education,educationNumber,maritalStatus,occupation,relationship,race,gender,hourPerWeek,nativeCountry
+37, Private, Some-college,10, Divorced, Adm-clerical, Unmarried,4, Female,39, United-States
+22, Private, 12th,8, Never-married, Protective-serv, Own-child,3, Male,35, United-States
+34, Private, Bachelors,13, Never-married, Exec-managerial, Not-in-family,4, Female,55, United-States
+30, Private, HS-grad,9, Never-married, Craft-repair, Not-in-family,3, Male,46, United-States
+38, Private, Bachelors,13, Divorced, Prof-specialty, Unmarried,3, Female,45, United-States
+45, State-gov, HS-grad,9, Separated, Adm-clerical, Own-child,4, Female,40, United-States
+41, ?, HS-grad,9, Separated, ?, Not-in-family,3, Female,32, United-States
+45, Local-gov, Assoc-acdm,12, Divorced, Prof-specialty, Unmarried,4, Female,48, United-States
+31, Private, Masters,14, Divorced, Other-service, Not-in-family,5, Female,30, United-States
+37, Private, Assoc-acdm,12, Divorced, Tech-support, Not-in-family,4, Female,40, United-States

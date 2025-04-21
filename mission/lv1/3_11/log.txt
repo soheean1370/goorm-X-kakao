@@ -1,0 +1,5 @@
+2025-03-10 user123 login
+2025-03-10 user456 purchase
+2025-03-10 user123 logout
+2025-03-11 user789 login
+2025-03-11 user123 login
